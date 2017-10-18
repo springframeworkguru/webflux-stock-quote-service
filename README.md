@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/springframeworkguru/webflux-stock-quote-service.svg?style=svg)](https://circleci.com/gh/springframeworkguru/webflux-stock-quote-service)
 # WebFlux Stock Quote Service
 
 This repository contains source code for my Reactive Programming with Spring Framework 5 course.
